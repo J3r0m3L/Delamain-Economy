@@ -1,0 +1,5 @@
+# venv (virtual environment) for depenedencies (to activate venv\scripts\activate.bat)
+venv
+
+# env (API Key Values)
+credentials.env
